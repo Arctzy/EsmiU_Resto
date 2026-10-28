@@ -1989,4 +1989,5 @@ body.nav-open .to-top { opacity: 0; visibility: hidden; }
   .js .reveal--mask img { clip-path: none; transform: none; }
   .js body::after { display: none; }
   .marquee__track { animation: none; }
+  .split .char { animation: none; transform: none; }
 }
